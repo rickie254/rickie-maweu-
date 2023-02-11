@@ -1,5 +1,5 @@
 import React, { Fragment, useEffect } from 'react'
-import person2 from "../../assets/meag.jpeg"
+import person2 from "../../assets/meag.png"
 import './about.css'
 import Aos from 'aos'
 import "aos/dist/aos.css"
