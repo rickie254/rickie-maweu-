@@ -24,20 +24,20 @@ const Contact = () => {
           <article className='contact_option'>
             <MdOutlineEmail  className='contact_option-icon' />
             <h4>Email(gmail)</h4>
-            <h5>boyani</h5>
-            <a href='mailto:sylviaboyani11@gmail.com' target="_blank" rel='noreferrer'>Send Email</a>
+            <h5>Rickie</h5>
+            <a href='mailto:rickie.maweu@student.moringaschool.com' target="_blank" rel='noreferrer'>Send Email</a>
           </article>
           <article className='contact_option'>
             <BsTwitter  className='contact_option-icon'/>
             <h4>Messenger</h4>
-            <h5>sylvia-boyani</h5>
-            <a href ="https://twitter.com/BoyaniSylvia" target="_blank" rel='noreferrer'>Send Message</a>
+            <h5>Rickie Maweu</h5>
+            <a href ="https://twitter.com/issaranxxs254" target="_blank" rel='noreferrer'>Send Message</a>
           </article>
           <article className="contact_option">
             <BsWhatsapp className='contact_option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+254 791******</h5>
-            <a href='https://api.whatsapp.com/send?phone+254791351887' target="_blank" rel ="noreferrer">Send a Message</a> 
+            <h5>+254 797******</h5>
+            <a href='https://api.whatsapp.com/send?phone+254797818378' target="_blank" rel ="noreferrer">Send a Message</a> 
           </article>
         </div>
         {/* end of contact options */}
