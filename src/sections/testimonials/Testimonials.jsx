@@ -45,7 +45,7 @@ const Testimonial = () => {
         <div className={toggleTab === 1 ? "testi-content active-content": "testi-content"}>
           <div className="user-text">
             <p> The website is coming along beautifully as it is still ongoing, but I can't wait to see the complete project!</p>
-            <h4>Tumaini Ministries Center</h4>
+            {/* <h4>Tumaini Ministries Center</h4> */}
           </div>
         </div>
 
