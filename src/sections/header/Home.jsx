@@ -8,11 +8,10 @@ function Home() {
   return (
     <div className='header'>
       <div className='content'>
-        <h1>Be A Digital Innovator</h1>
-        <p>Digital technologies are disrupting
-          old industries and creating new ones.
-          This brings <br></br>lots of opportunities, but
-          challenges as well. Are you ready for them?</p>
+        <h1>full stack  software Engineer</h1>
+        <p> i am Rickie this is my  portiofolio 
+          am a front and backend software Engineer.
+          </p>
         <p>
           <br></br>
           You are a click away from building your dream website or a web app. Send me

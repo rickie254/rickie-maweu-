@@ -25,6 +25,7 @@ const About = () => {
             web development, Cloud computing and I also 
             like gaming .
           </p>
+          
         </div>
       </div>
       <div data-aos="fade-right" className="about-column">
