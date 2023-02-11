@@ -27,12 +27,10 @@ function AboutMe() {
          <div data-aos="fade-left" className="about-column">
             <div className='about-content'>
                <p><h3>My Values</h3>
-                  My business is more than just a job.
-                  Each time I take on a new project,
+                  I take on a new project,
                   I make sure it aligns with my core
-                  set of values so I know I can deliver great results.
-                  My curiosity makes me love learning, and added with my
-                  perfectionism, I am able to come up with quality work.</p>
+                  set of values so I know that I can deliver great results.
+                  </p>
             </div>
          </div>
 
