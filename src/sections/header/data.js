@@ -9,7 +9,7 @@ import {BsMedium} from 'react-icons/bs'
 const data = [
     {id: 1, link: 'https://www.instagram.com/issa.ranxxs/', icon: <AiOutlineInstagram/>},
     {id: 1, link: 'https://twitter.com/issaranxxs254', icon: <AiOutlineTwitter/>},
-    {id: 1, link: 'https://github.com/sylvia-boyani', icon: <AiFillGithub/>},
+    {id: 1, link: 'https://github.com/rickie254', icon: <AiFillGithub/>},
     {id: 1, link: 'https://www.linkedin.com/in/sylvia-boyani-7130a6196/', icon: <AiFillLinkedin/>},
     {id: 1, link: 'https://web.facebook.com/profile.php?id=100089759584527', icon: <AiFillFacebook/>},
     {id: 1, link: 'https://medium.com/@sylviaboyani11', icon: <BsMedium/>},
