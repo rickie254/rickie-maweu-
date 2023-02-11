@@ -12,7 +12,7 @@ const data = [
     {id: 1, link: 'https://github.com/rickie254', icon: <AiFillGithub/>},
     {id: 1, link: 'https://www.linkedin.com/in/rickie-maweu-701596240/', icon: <AiFillLinkedin/>},
     {id: 1, link: 'https://www.facebook.com/rickie.maweu.7/', icon: <AiFillFacebook/>},
-    {id: 1, link: 'https://medium.com/@sylviaboyani11', icon: <BsMedium/>},
+    {id: 1, link: 'https://www.buymeacoffee.com/rickiemaweK?new=1', icon: <BsMedium/>},
 ]
 
 
