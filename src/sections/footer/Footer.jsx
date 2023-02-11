@@ -28,7 +28,7 @@ const footer = () => {
         </div>
 
         <div className='footer_copyright'>
-         <small>&copy; 2023 SYLVIA BOYANI OMBOGO. All rights reserved.</small>
+         <small>&copy; 2023 Rickie meweu  kyalo. All rights reserved.</small>
         </div>
        </footer>    
   )
