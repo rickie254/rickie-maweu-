@@ -54,7 +54,7 @@ const Testimonial = () => {
         <div className={toggleTab === 2 ? "testi-content active-content": "testi-content"}>
           <div className="user-text">
             <p>So far Awesome Projects build at school, one can take a look at the projects already completed at my portfolio.</p>
-            <h4>Sylvia Boyani</h4>
+            <h4>Rickie Maweu</h4>
           </div>
         </div>
 
@@ -63,7 +63,7 @@ const Testimonial = () => {
         <div className={toggleTab === 3 ? "testi-content active-content": "testi-content"}>
           <div className="user-text">
             <p>Very good website done for me. No delays and all deliverables met.</p>
-            <h4>Emily Bonareri</h4>
+            <h4>Rickie Maweu</h4>
           </div>
         </div>
           
