@@ -59,7 +59,7 @@ const Portfolio = () => {
 												<div class="overlay-inner">
 													<h4>{elem.heading}</h4>
 													<p>{elem.paragrapgh}</p>
-													<a href='https://github.com/sylvia-boyani' className='btn primary' target="_blank">Source Code</a>
+													<a href='https://github.com/rickie254?tab=repositories' className='btn primary' target="_blank">Source Code</a>
 												</div>
 											</div>
 										</a>

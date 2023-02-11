@@ -82,8 +82,8 @@ const Services = () => {
             <div className="single-ser">
             <span class="ico-area"> <i class="fa-solid fa-code"></i><MdEngineering/></span>
             <div class="service-desc">
-                <h2>Engineer</h2>
-                <p>Electrical and Electronics Enginner (Control and Instrumentation)</p>
+                {/* <h2>Engineer</h2>
+                <p>Electrical and Electronics Enginner (Control and Instrumentation)</p> */}
             </div>
             </div>
         </div>
