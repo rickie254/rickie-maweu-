@@ -1,7 +1,7 @@
 import React from 'react'
 import './AboutMe.css'
 import img from '../assets/img1.jpg'
-import im3 from '../assets/im3.jpg'
+import im3 from '../assets/img3.jpg'
 import im4 from '../assets/im4.jpg'
 
 
